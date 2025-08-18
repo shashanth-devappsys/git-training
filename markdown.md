@@ -101,7 +101,7 @@ Markdown is excellent for displaying code.
         ```markdown
         To display inline code, use `print("Hello, World!")`.
         ```
-  * **Code Blocks:** Use three backticks (`     `) before and after a block of code. You can also specify the language for syntax highlighting.
+  * **Code Blocks:** Use three backticks (`` ``` ``) before and after a block of code. You can also specify the language for syntax highlighting.
       * **Syntax:**
         ````markdown
         ```python
